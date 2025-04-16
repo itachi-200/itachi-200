@@ -5,7 +5,7 @@
 
 <!-- Meditative Monk Image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-upload-path.jpg" alt="Tech Monk" width="70%" />
+  <img src="https://github.com/itachi-200/itachi-200/blob/main/Image-.png" alt="Tech Monk" width="70%" />
 </p>
 
 <!-- Typing effect headline -->
@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,keras,opencv,numpy,pandas,scikit-learn,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,opencv,numpy,pandas,scikit-learn,mysql,git,github,vscode&perline=6" />
 </div>
 
 ---
@@ -55,18 +55,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itachi-200&show_icons=true&theme=react&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itachi-200&theme=react&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-200&layout=compact&theme=react" width="48%" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
