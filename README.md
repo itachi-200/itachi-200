@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=230&section=header&text=Shubham%20Jaiswal&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header"/>
 </p>
 
-<!-- Meditative Monk Image -->
-<p align="center">
-  <img src="https://github.com/itachi-200/itachi-200/blob/main/Image-.png" alt="Tech Monk" width="70%" />
-</p>
+<!-- Meditative Monk Image --
 
 <!-- Typing effect headline -->
 <p align="center">
